@@ -1,0 +1,5 @@
+name: ConsoleBridge
+version: 1.0.0
+main: dev.dani.consolebridge.ConsoleBridge
+api-version: '1.21'
+description: Secured console and config bridge
